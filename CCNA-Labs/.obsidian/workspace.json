@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5def46ef38c195b9",
+        "id": "e8dd5ec88e70b198",
         "type": "tabs",
         "children": [
           {
-            "id": "1dcdb432389bdb39",
+            "id": "3188db5177e59276",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configure&VerifyIPv4/Configure&verifyIPv4.md",
+                "file": "Autoconfiguration IPv6 Address/IPv6 Address Autoconfiguration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configure&verifyIPv4"
+              "title": "IPv6 Address Autoconfiguration"
             }
           }
         ]
@@ -185,11 +185,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "1dcdb432389bdb39",
+  "active": "3188db5177e59276",
   "lastOpenFiles": [
+    "images/setup-ipv6-example.md",
+    "Autoconfiguration IPv6 Address/IPv6 Address Autoconfiguration.md",
+    "Autoconfiguration IPv6 Address/images/connection-checkout-ipv6.png",
+    "Autoconfiguration IPv6 Address/images/gigabit-interface.png",
+    "Autoconfiguration IPv6 Address/images/loopback0-interface.png",
+    "Autoconfiguration IPv6 Address/images/setup-ipv6-example.png",
+    "Autoconfiguration IPv6 Address/images/topology-ipv6.png",
+    "Configure&VerifyIPv4/Configure&verifyIPv4.md",
+    "images",
+    "Autoconfiguration IPv6 Address/src",
+    "Autoconfiguration IPv6 Address/images",
+    "Autoconfiguration IPv6 Address",
     "Configure&VerifyIPv4/images/Connection-checking.png",
     "Configure&VerifyIPv4/images/Topology.png",
-    "Configure&VerifyIPv4/Configure&verifyIPv4.md",
     "Configure&VerifyIPv4/images",
     "Configure&VerifyIPv4/images/R2-Checking.png",
     "Configure&VerifyIPv4/images/R1-Checking.png",
