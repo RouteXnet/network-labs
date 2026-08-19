@@ -12,7 +12,7 @@
 В рамках подготовки к настройке VLAN задайте имена хостов для коммутаторов и маршрутизаторов в соответствии с приведённой топологией. 
 **Задание 2:**
 
-Настройте и проверьте, что коммутатор Sw1 работает в режиме VTP‑сервера, а коммутатор Sw2 — в режиме VTP‑клиента. Оба коммутатора должны находиться в домене VTP с именем CISCO.
+Настройте и проверьте, что коммутатор Sw1 работает в режиме VTP‑сервера, а коммутатор Sw2 — в режиме VTP‑клиента. Оба коммутатора должны находиться в домене VTP с именем CATALYST.
 
 **Задание 3:**
 
@@ -55,16 +55,16 @@ R3(config)#
 ```
 SW1#config t 
 Enter configuration commands, one per line.  End with CTRL/Z. 
-SW1(config)#vtp domain CISCO 
-Changing VTP domain name from Null to CISCO 
+SW1(config)#vtp domain CATALYST 
+Changing VTP domain name from Null to CATALYST 
 SW1(config)# 
 
 SW2#config t 
 Enter configuration commands, one per line.  End with CTRL/Z. 
 SW2(config)#vtp mode client
 Setting device to VTP CLIENT mode. 
-SW2(config)#vtp domain CISCO 
-Changing VTP domain name from Null to CISCO 
+SW2(config)#vtp domain CATALYST 
+Changing VTP domain name from Null to CATALYST 
 SW2(config)#end
 ```
 Просмотр стстауса vtp на коммутаторе выполняющего роль клиента vtp
