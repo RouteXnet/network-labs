@@ -68,7 +68,7 @@ Changing VTP domain name from Null to CATALYST
 SW2(config)#end
 ```
 Просмотр стстауса vtp на коммутаторе выполняющего роль клиента vtp
-![](images/vtp-status-sw2.png)
+![](Configuring%20VTP%20Clients%20and%20Servers/images/vtp-status-sw2.png)
 #### Задание 3:
 Некоторые коммутаторы Cisco по умолчанию работают в режиме транка 802.1Q — поэтому явная настройка не требуется. Наш так не работает поэтому будем настраивать.
 ```

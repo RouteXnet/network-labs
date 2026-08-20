@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f5a1b84dc30dabec",
+        "id": "9ca40880d0e6cdc2",
         "type": "tabs",
         "children": [
           {
-            "id": "50af56f4c112705c",
+            "id": "69a5a4260bf79ca1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Configuring VTP Transparent Mode/Configuring VTP Transparent Mode.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Configuring VTP Transparent Mode"
+              "title": "New tab"
             }
           }
         ]
@@ -185,18 +181,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "50af56f4c112705c",
+  "active": "69a5a4260bf79ca1",
   "lastOpenFiles": [
-    "Configuring VTP Transparent Mode/images/topology.png",
+    "Securing VTP Domains/Securing VTP Domains.md",
+    "README.md",
+    "Securing VTP Domains/images/md5-sw2.png",
+    "Securing VTP Domains/images/md5-sw1.png",
+    "Securing VTP Domains/images/topology.png",
+    "Securing VTP Domains/images/vtp-status-sw2.png",
     "Configuring VTP Transparent Mode/Configuring VTP Transparent Mode.md",
+    "Securing VTP Domains/images",
+    "Securing VTP Domains",
+    "Configuring VTP Transparent Mode/images/topology.png",
     "Configuring VTP Transparent Mode/images/ip-int-R1.png",
     "Configuring VTP Transparent Mode/images/ping-R2-R1.png",
     "Configuring VTP Transparent Mode/images/ip-int-r1.png",
     "Configuring VTP Transparent Mode/images/ip-int-r2.png",
     "Configuring VTP Transparent Mode/images/sw2-show-vlan-brief.png",
-    "Configuring VTP Transparent Mode/images/sw1-vlan-brief.png",
-    "Pasted image 20260819215551.png",
-    "Configuring VTP Transparent Mode/images/sw2-show-vtp-done.png",
     "Configuring VTP Transparent Mode/images",
     "Configuring VTP Transparent Mode",
     "Configuring Standard VLANs/Configuring Standard VLANs on Catalyst Switches.md",
@@ -204,14 +205,11 @@
     "Configuring VTP Clients and Servers/images",
     "Configuring VTP Clients and Servers",
     "Configure&VerifyIPv4/Configure&verifyIPv4.md",
-    "README.md",
     "Configuring Standard VLANs/images",
     "Configuring Standard VLANs",
     "Autoconfiguration IPv6 Address/IPv6 Address Autoconfiguration.md",
     "images/setup-ipv6-example.md",
     "Configuring VTP Clients and Servers/images",
-    "Autoconfiguration IPv6 Address/src",
-    "Autoconfiguration IPv6 Address/images",
-    "Autoconfiguration IPv6 Address"
+    "Autoconfiguration IPv6 Address/src"
   ]
 }
