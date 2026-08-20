@@ -11,13 +11,46 @@
             "id": "69a5a4260bf79ca1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Securing VTP Domains/Securing VTP Domains.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Securing VTP Domains"
+            }
+          },
+          {
+            "id": "544a78d5f0af1d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configuring Switch Access Port Security/Configuring Switch Access Port Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configuring Switch Access Port Security"
+            }
+          },
+          {
+            "id": "acb3314d60024d26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configuring Switch Access Port Security/Configuring Switch Access Port Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configuring Switch Access Port Security"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,23 +214,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "69a5a4260bf79ca1",
+  "active": "fdbfdeb41d13ac60",
   "lastOpenFiles": [
+    "Configuring Switch Access Port Security/images/topology.png",
+    "Configuring Switch Access Port Security/images/show-portsecurity.png",
+    "Configuring Switch Access Port Security/Configuring Switch Access Port Security.md",
+    "Configuring Switch Access Port Security/images/port-shutdown.png",
+    "Configuring Switch Access Port Security/images/ping-sw1-r1.png",
+    "IP MASKS CHEATSHEET.md",
+    "Configuring Switch Access Port Security/images",
     "Securing VTP Domains/Securing VTP Domains.md",
-    "README.md",
-    "Securing VTP Domains/images/md5-sw2.png",
+    "Configuring Switch Access Port Security",
     "Securing VTP Domains/images/md5-sw1.png",
+    "Securing VTP Domains/images/md5-sw2.png",
     "Securing VTP Domains/images/topology.png",
     "Securing VTP Domains/images/vtp-status-sw2.png",
+    "README.md",
     "Configuring VTP Transparent Mode/Configuring VTP Transparent Mode.md",
     "Securing VTP Domains/images",
     "Securing VTP Domains",
     "Configuring VTP Transparent Mode/images/topology.png",
     "Configuring VTP Transparent Mode/images/ip-int-R1.png",
     "Configuring VTP Transparent Mode/images/ping-R2-R1.png",
-    "Configuring VTP Transparent Mode/images/ip-int-r1.png",
-    "Configuring VTP Transparent Mode/images/ip-int-r2.png",
-    "Configuring VTP Transparent Mode/images/sw2-show-vlan-brief.png",
     "Configuring VTP Transparent Mode/images",
     "Configuring VTP Transparent Mode",
     "Configuring Standard VLANs/Configuring Standard VLANs on Catalyst Switches.md",
@@ -208,8 +246,6 @@
     "Configuring Standard VLANs/images",
     "Configuring Standard VLANs",
     "Autoconfiguration IPv6 Address/IPv6 Address Autoconfiguration.md",
-    "images/setup-ipv6-example.md",
-    "Configuring VTP Clients and Servers/images",
-    "Autoconfiguration IPv6 Address/src"
+    "images/setup-ipv6-example.md"
   ]
 }
