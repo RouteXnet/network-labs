@@ -8,63 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69a5a4260bf79ca1",
+            "id": "fde2a1b77907b7dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Securing VTP Domains/Securing VTP Domains.md",
-                "mode": "source",
-                "source": false
+                "file": "Configuring Inter-VLAN Routing (Router on a Stick)/images/topology.png"
               },
-              "icon": "lucide-file",
-              "title": "Securing VTP Domains"
+              "icon": "lucide-image",
+              "title": "topology"
             }
           },
           {
-            "id": "544a78d5f0af1d25",
+            "id": "0bc5878c094ae737",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuring Switch Access Port Security/Configuring Switch Access Port Security.md",
+                "file": "Configuring LLDP/Configuring LLDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuring Switch Access Port Security"
-            }
-          },
-          {
-            "id": "6098ae8c77a853e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Configuring Switch Access Port Security/Configuring Advanced Switch Access Port Security.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Configuring Advanced Switch Access Port Security"
-            }
-          },
-          {
-            "id": "08037d9ea60c6d81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Configuring Switch Access Port Security/Configuring Advanced Static Switch Access Port Security.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Configuring Advanced Static Switch Access Port Security"
+              "title": "Configuring LLDP"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,26 +198,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "fdbfdeb41d13ac60",
+  "active": "0bc5878c094ae737",
   "lastOpenFiles": [
+    "Configuring LLDP/images/r2-lldp-details-device.png",
+    "Pasted image 20260901022730.png",
+    "Configuring LLDP/images/r2-lldp-information.png",
+    "Configuring LLDP/images/r2-no-cdp.png",
+    "Configuring LLDP/images/r2-show-lldp.png",
+    "Configuring LLDP/Configuring LLDP.md",
+    "IP MASKS CHEATSHEET.md",
+    "Configuring LLDP/images/topology.png",
+    "Configuring Inter-VLAN Routing (Router on a Stick)/images/topology.png",
+    "Configuring LLDP/images",
+    "Configuring LLDP",
+    "Configuring Inter-VLAN Routing (Router on a Stick)/images/r2-to-r4-connection-fail.png",
+    "Configuring Inter-VLAN Routing (Router on a Stick)/images/connection-check.png",
+    "Configuring Inter-VLAN Routing (Router on a Stick)/images/sw2-show-int.png",
+    "Configuring Inter-VLAN Routing (Router on a Stick)/Configuring Inter-VLAN Routing (Router on a Stick).md",
     "Configuring Switch Access Port Security/Configuring Advanced Switch Access Port Security.md",
     "Configuring Switch Access Port Security/Configuring Advanced Static Switch Access Port Security.md",
-    "Untitled",
-    "Configuring Switch Access Port Security/images/connection-portsec-advance.png",
     "Configuring Switch Access Port Security/Configuring Switch Access Port Security.md",
-    "IP MASKS CHEATSHEET.md",
-    "Configuring Switch Access Port Security/images/after-reboot-portsec.png",
-    "Configuring Switch Access Port Security/images/mac-address-sticky.png",
-    "Configuring Switch Access Port Security/images/topology-adv-port-sec.png",
-    "Configuring Switch Access Port Security/images/topology.png",
-    "Configuring Switch Access Port Security/images/show-portsecurity.png",
-    "Configuring Switch Access Port Security/images/port-shutdown.png",
-    "Configuring Switch Access Port Security/images/ping-sw1-r1.png",
-    "Configuring Switch Access Port Security/images",
     "Securing VTP Domains/Securing VTP Domains.md",
+    "Configuring Inter-VLAN Routing (Router on a Stick)/images",
+    "Configuring Inter-VLAN Routing (Router on a Stick)",
+    "Configuring Switch Access Port Security/images",
     "Configuring Switch Access Port Security",
-    "Securing VTP Domains/images/md5-sw1.png",
-    "Securing VTP Domains/images/md5-sw2.png",
     "README.md",
     "Configuring VTP Transparent Mode/Configuring VTP Transparent Mode.md",
     "Securing VTP Domains/images",
@@ -256,10 +231,7 @@
     "Configuring VTP Transparent Mode",
     "Configuring Standard VLANs/Configuring Standard VLANs on Catalyst Switches.md",
     "Configuring VTP Clients and Servers/Configuring VTP Clients and Servers.md",
-    "Configuring VTP Clients and Servers/images",
-    "Configuring VTP Clients and Servers",
     "Configure&VerifyIPv4/Configure&verifyIPv4.md",
-    "Configuring Standard VLANs/images",
     "Autoconfiguration IPv6 Address/IPv6 Address Autoconfiguration.md",
     "images/setup-ipv6-example.md"
   ]
