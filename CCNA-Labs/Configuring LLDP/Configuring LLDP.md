@@ -16,7 +16,7 @@
 Убедитесь, что маршрутизаторы R1 и R3 обнаружили друг друга через Ethernet‑соединения с помощью LLDP.
 
 #### Топология
-![](images/topology.png)
+![](Configuring%20LLDP/images/topology.png)
 
 ---
 #### Задание 1:
