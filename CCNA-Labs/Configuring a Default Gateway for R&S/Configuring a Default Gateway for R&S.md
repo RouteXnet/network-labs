@@ -19,7 +19,7 @@
 Проверьте конфигурацию, выполнив ping с коммутатора Sw1 на адрес интерфейса GigabitEthernet0/0 маршрутизатора R1 (192.168.1.1).
 
 #### Топология
-![[Configuring a Default Gateway for R&S/images/topology.png]]
+![](images/topology.png)
 #### Задание 1:
 Настройка имен:
 ```
@@ -85,7 +85,7 @@ SW1(config)#^Z
 ```
 #### Задание 4:
 Проверим доступность устройств через шлюз по умолчанию.
-![[connectivity-defaultgw.png]]
+![](images/connectivity-defaultgw.png)
 **Конфигурация устройств:**
 
 ```
